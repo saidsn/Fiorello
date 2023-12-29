@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiorelloApp", "FiorelloApp\FiorelloApp.csproj", "{9E1179D8-0495-482D-BE35-2F4BC1BA795F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E1179D8-0495-482D-BE35-2F4BC1BA795F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E1179D8-0495-482D-BE35-2F4BC1BA795F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E1179D8-0495-482D-BE35-2F4BC1BA795F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E1179D8-0495-482D-BE35-2F4BC1BA795F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49D31274-5735-4F39-AE12-4B2C3A7659D5}
+	EndGlobalSection
+EndGlobal
