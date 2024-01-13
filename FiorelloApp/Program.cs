@@ -27,6 +27,8 @@ namespace FiorelloApp
 
                 opt.User.RequireUniqueEmail = true;
 
+                opt.SignIn.RequireConfirmedEmail = true;
+
                 opt.Lockout.MaxFailedAccessAttempts = 3;
                 opt.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(10);
                 opt.Lockout.AllowedForNewUsers = true;
